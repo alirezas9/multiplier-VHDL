@@ -1,0 +1,179 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/E/document/ise/CA_VHDL_HW1_9928041/array_multiplier
+T_opt
+!s110 1678908957
+VzKZgDQS^Y;WhdEd3NIYS?1
+04 19 8 work array_multiplier_tb behavior 1
+=1-7824afc1aa15-64121e1d-28-2714
+o-quiet -auto_acc_if_foreign -work work +acc
+tCvgOpt 0
+n@_opt
+OL;O;10.5;63
+Earray_multiplier
+Z1 w1678908927
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8array_multiplier.vhd
+Z6 Farray_multiplier.vhd
+l0
+L24
+Vl?F;QPX22eoNLo`Cdml`l3
+!s100 n<;8ln2AG@XK]=4;>o4Qb3
+Z7 OL;C;10.5;63
+31
+Z8 !s110 1678908956
+!i10b 1
+Z9 !s108 1678908956.000000
+Z10 !s90 -reportprogress|300|-explicit|-93|array_multiplier.vhd|
+Z11 !s107 array_multiplier.vhd|
+!i113 0
+Z12 o-explicit -93
+Z13 tExplicit 1 CvgOpt 0
+Abehavioral
+R2
+R3
+R4
+DEx4 work 16 array_multiplier 0 22 l?F;QPX22eoNLo`Cdml`l3
+l48
+L29
+Vg7E6j>1FW^IQ[;`[KknjV3
+!s100 ac;22l=<3aH3k3@efS9O?1
+R7
+31
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+R13
+Earray_multiplier_tb
+Z14 w1678895816
+Z15 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R3
+R4
+R0
+Z16 8array_multiplier_tb.vhd
+Z17 Farray_multiplier_tb.vhd
+l0
+L32
+VXT]_g5IOg6J@:GWR`51nY3
+!s100 O8hcOV;jC[RJJhR9gLJ[c0
+R7
+31
+R8
+!i10b 1
+R9
+Z18 !s90 -reportprogress|300|-explicit|-93|array_multiplier_tb.vhd|
+Z19 !s107 array_multiplier_tb.vhd|
+!i113 0
+R12
+R13
+Abehavior
+R15
+R3
+R4
+DEx4 work 19 array_multiplier_tb 0 22 XT]_g5IOg6J@:GWR`51nY3
+l58
+L35
+Vg40HS;GSMa5UizX74A`E=3
+!s100 fCPN<]l>dlYDAF^FnkN6;1
+R7
+31
+R8
+!i10b 1
+R9
+R18
+R19
+!i113 0
+R12
+R13
+Efa
+Z20 w1678890895
+R3
+R4
+R0
+Z21 8FA.vhd
+Z22 FFA.vhd
+l0
+L4
+V`BTB2Q0M?;;kn;_7N3a@V1
+!s100 STPZHh7ON1d0UK9Rol`?D1
+R7
+31
+R8
+!i10b 1
+R9
+Z23 !s90 -reportprogress|300|-explicit|-93|FA.vhd|
+Z24 !s107 FA.vhd|
+!i113 0
+R12
+R13
+Abehavioral
+R3
+R4
+DEx4 work 2 fa 0 22 `BTB2Q0M?;;kn;_7N3a@V1
+l15
+L9
+VKWNleY1hA1[dWQMY1oU7R3
+!s100 1f1l:FoFn]Y@EdA=3XZJF3
+R7
+31
+R8
+!i10b 1
+R9
+R23
+R24
+!i113 0
+R12
+R13
+Eha
+Z25 w1678890777
+R3
+R4
+R0
+Z26 8HA.vhd
+Z27 FHA.vhd
+l0
+L4
+VN`lW3[b>FJ9L_<nBlAWYm1
+!s100 U?SFb1CzVT0K<<kgQaBWR3
+R7
+31
+R8
+!i10b 1
+R9
+Z28 !s90 -reportprogress|300|-explicit|-93|HA.vhd|
+Z29 !s107 HA.vhd|
+!i113 0
+R12
+R13
+Abehavioral
+R3
+R4
+DEx4 work 2 ha 0 22 N`lW3[b>FJ9L_<nBlAWYm1
+l11
+L9
+VzSg`ZVX@do@F67iToELZ01
+!s100 PaQBLXcB9YnP4B:m<2b]H2
+R7
+31
+R8
+!i10b 1
+R9
+R28
+R29
+!i113 0
+R12
+R13

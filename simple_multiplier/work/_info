@@ -1,0 +1,178 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/E/document/ise/CA_VHDL_HW1_9928041/simple_multiplier
+T_opt
+Z1 !s110 1678890069
+V^F_I_oMbBX@oGE_=BUDk40
+04 20 8 work simple_multiplier_tb behavior 1
+=1-7824afc1aa15-6411d455-317-583c
+o-quiet -auto_acc_if_foreign -work work +acc
+tCvgOpt 0
+n@_opt
+OL;O;10.5;63
+R0
+Eadder_6bit
+Z2 w1678889794
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8adder_6bit.vhd
+Z6 Fadder_6bit.vhd
+l0
+L6
+VL9TdG>D7P1e4XVS`JE_131
+!s100 4S?_QA^Uc]dYl3eH:oQ931
+Z7 OL;C;10.5;63
+31
+Z8 !s110 1678890177
+!i10b 1
+Z9 !s108 1678890177.000000
+Z10 !s90 -reportprogress|300|-explicit|-93|adder_6bit.vhd|
+Z11 !s107 adder_6bit.vhd|
+!i113 0
+Z12 o-explicit -93
+Z13 tExplicit 1 CvgOpt 0
+Abehavioral
+R3
+R4
+DEx4 work 10 adder_6bit 0 22 L9TdG>D7P1e4XVS`JE_131
+l22
+L13
+V]^dZdiBHVJlFglFQLb;h42
+!s100 0AzENkRfmJXDzW<gnKO^h0
+R7
+31
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+R13
+Efa
+Z14 w1678889266
+R3
+R4
+R0
+Z15 8FA.vhd
+Z16 FFA.vhd
+l0
+L6
+V2[l2<RKK]FQO;n]2=nJb@0
+!s100 l[mJl2VHk@APD_HBRWYDg0
+R7
+31
+R8
+!i10b 1
+R9
+Z17 !s90 -reportprogress|300|-explicit|-93|FA.vhd|
+Z18 !s107 FA.vhd|
+!i113 0
+R12
+R13
+Abehavioral
+R3
+R4
+DEx4 work 2 fa 0 22 2[l2<RKK]FQO;n]2=nJb@0
+l17
+L11
+VVX9RR[_S<:Xb57VYjmK`Y1
+!s100 E[SFz@cAVnBDVlC]:I0jU2
+R7
+31
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 0
+R12
+R13
+Esimple_multiplier
+Z19 w1678889161
+R3
+R4
+R0
+Z20 8simple_multiplier.vhd
+Z21 Fsimple_multiplier.vhd
+l0
+L23
+VY`FnmCZ0AOf>;RH>QCJZg1
+!s100 A0ifLa4Inmk[`cCU4[hcY1
+R7
+31
+R8
+!i10b 1
+R9
+Z22 !s90 -reportprogress|300|-explicit|-93|simple_multiplier.vhd|
+Z23 !s107 simple_multiplier.vhd|
+!i113 0
+R12
+R13
+Abehavioral
+R3
+R4
+DEx4 work 17 simple_multiplier 0 22 Y`FnmCZ0AOf>;RH>QCJZg1
+l43
+L28
+Vo<mO5MJR=6LZUA8^iDRX61
+!s100 :3n>GFdXPA8jaASob]6IX1
+R7
+31
+R8
+!i10b 1
+R9
+R22
+R23
+!i113 0
+R12
+R13
+Esimple_multiplier_tb
+Z24 w1678890059
+Z25 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R3
+R4
+R0
+Z26 8simple_multiplier_tb.vhd
+Z27 Fsimple_multiplier_tb.vhd
+l0
+L33
+V13cV:VaaA@iH[BbL3EMTz3
+!s100 TF8z5@MJAE^CoF]6_I8hg2
+R7
+31
+R8
+!i10b 1
+R9
+Z28 !s90 -reportprogress|300|-explicit|-93|simple_multiplier_tb.vhd|
+Z29 !s107 simple_multiplier_tb.vhd|
+!i113 0
+R12
+R13
+Abehavior
+R25
+R3
+R4
+Z30 DEx4 work 20 simple_multiplier_tb 0 22 13cV:VaaA@iH[BbL3EMTz3
+l57
+L36
+Z31 V3?1UMEKJK=6F7MJHI^>_J1
+Z32 !s100 AWM:[k6L:ajB2ad9CNRTf3
+R7
+31
+R8
+!i10b 1
+R9
+R28
+R29
+!i113 0
+R12
+R13

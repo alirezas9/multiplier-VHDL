@@ -1,0 +1,73 @@
+# Reading G:/program/modelsim/tcl/vsim/pref.tcl
+# //  ModelSim SE-64 10.5 Feb 13 2016 
+# //
+# //  Copyright 1991-2016 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  ModelSim SE-64 and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# do {simple_multiplier_tb.fdo}
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim SE-64 vcom 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 17:52:57 on Mar 15,2023
+# vcom -reportprogress 300 -explicit -93 FA.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity FA
+# -- Compiling architecture Behavioral of FA
+# End time: 17:52:57 on Mar 15,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vcom 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 17:52:57 on Mar 15,2023
+# vcom -reportprogress 300 -explicit -93 adder_6bit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity adder_6bit
+# -- Compiling architecture Behavioral of adder_6bit
+# End time: 17:52:57 on Mar 15,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vcom 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 17:52:57 on Mar 15,2023
+# vcom -reportprogress 300 -explicit -93 simple_multiplier.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity simple_multiplier
+# -- Compiling architecture Behavioral of simple_multiplier
+# End time: 17:52:57 on Mar 15,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vcom 10.5 Compiler 2016.02 Feb 13 2016
+# Start time: 17:52:57 on Mar 15,2023
+# vcom -reportprogress 300 -explicit -93 simple_multiplier_tb.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity simple_multiplier_tb
+# -- Compiling architecture behavior of simple_multiplier_tb
+# End time: 17:52:57 on Mar 15,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs=""+acc"" -t 1ps -lib work work.simple_multiplier_tb 
+# Start time: 17:52:57 on Mar 15,2023
+# ** Note: (vsim-8009) Loading existing optimized design _opt
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.simple_multiplier_tb(behavior)#1
+# Loading work.simple_multiplier(behavioral)#1
+# Loading work.adder_6bit(behavioral)#1
+# Loading work.fa(behavioral)#1
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# End time: 17:55:16 on Mar 15,2023, Elapsed time: 0:02:19
+# Errors: 0, Warnings: 0
